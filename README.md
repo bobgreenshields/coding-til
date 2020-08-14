@@ -1,2 +1,5 @@
 # coding-til
-Odd rhings that I have learnt about coding
+
+Odd things that I have learnt about coding
+
+* [Dispatch tables](./dispatch-tables.md)
