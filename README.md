@@ -1,4 +1,4 @@
-# coding-til
+# Coding TIL
 
 Odd things that I have learnt about coding
 
